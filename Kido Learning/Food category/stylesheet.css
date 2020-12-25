@@ -1,0 +1,50 @@
+body{
+	background-image: url("images/back.jpg");
+	background-size:cover;
+	
+
+}
+div{
+	background: rgb(255,105,180);
+	text-align:center;
+	color:#fff;
+	margin-left:250px;
+	margin-right:250px;
+	font-size: 50px;
+	font-style:italic;
+	font-weight:bold;
+	border:1px solid rgb(255,105,180);
+	border-radius:25px;
+	
+}
+table,th,td{
+	
+	border-spacing: 15px;
+
+	background-color:rgb(255,248,220);
+	;
+
+}
+table{
+	border:1px solid rgb(255,105,180);
+	border-radius:25px;
+	margin-top: 80px;
+	margin-left:135px;
+	margin-bottom: 80px;
+	
+
+}
+
+
+.span1{
+	border:1px solid rgb(255,105,180);
+	border-radius:25px;
+
+	height:50px;
+	font-style: italic;
+	font-size:30px;
+	font-weight:bold;
+	text-align:center;
+
+
+}
